@@ -23,23 +23,35 @@ img{
   width:500px;
   border-style: dashed;
   border-color:#CEB5B7;
+}er-color:white;
 }
 iframe{
   
 }
 ul{
+  position: fixed;
+  top:0;
+  left:0;
+  width:200px;
+  height:100%;
+  margin:0px;
+  padding:20px;
   text-align: center;
   list-style-type: none;
   position: fixed;
+  background-color: dimgrey;
 }
 li{
-  float: left;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 li a{
-  padding:20px;
+  display: block;
+  padding: 10px;
   color:white;
   text-decoration: none;
-  border: dashed;
+  border: solid;
 }
 li a:hover{
   background-color: white;
