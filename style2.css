@@ -1,6 +1,6 @@
 body {
   font-family: "Georgia";
-  background: #778899;
+  background: Navy;
   color: white;
   text-align: center;
 }
@@ -23,7 +23,6 @@ img{
   width:500px;
   border-style: dashed;
   border-color:#CEB5B7;
-}er-color:white;
 }
 iframe{
   
@@ -39,7 +38,7 @@ ul{
   text-align: center;
   list-style-type: none;
   position: fixed;
-  background-color: dimgrey;
+  background-color: SteelBlue;
 }
 li{
   display: block;
