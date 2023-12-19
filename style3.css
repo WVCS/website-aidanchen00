@@ -1,11 +1,11 @@
 body {
   font-family: "Georgia";
-  background: Orange;
+  background: #cc841f;
   color: white;
   text-align: center;
 }
 h1{
-  width: 1000px;
+  width:1000px;
   font-size: 450%;
   letter-spacing: 3px;
   color: white;
