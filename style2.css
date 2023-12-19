@@ -1,6 +1,6 @@
 body {
   font-family: "Georgia";
-  background: Navy;
+  background: SteelBlue;;
   color: white;
   text-align: center;
 }
@@ -21,24 +21,26 @@ p{
 }
 img{
   width:500px;
-  border-style: dashed;
-  border-color:#CEB5B7;
+  border-style: solid;
+  border-color: white;
 }
 iframe{
   
 }
 ul{
+  border: solid;
+  border-color: white;
   position: fixed;
   top:0;
   left:0;
   width:200px;
   height:100%;
   margin:0px;
-  padding:20px;
+  padding:30px;
   text-align: center;
   list-style-type: none;
   position: fixed;
-  background-color: SteelBlue;
+  background-color: navy;
 }
 li{
   display: block;
