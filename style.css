@@ -1,6 +1,6 @@
 body {
   font-family: "Georgia";
-  background: grey;
+  background: gray;
   color: white;
   text-align: center;
 }
@@ -59,7 +59,7 @@ ul{
   text-align: center;
   list-style-type: none;
   position: fixed;
-  background-color: dimgrey;
+  background-color: #545454;
 }
 li{
   display: block;
